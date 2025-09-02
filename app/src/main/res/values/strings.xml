@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">VoiceToTextApp</string>
+    <string name="start_recording">Start Recording</string>
+    <string name="instruction_text">Tap the button to start speaking...</string>
+    <string name="error_audio">Audio recording error</string>
+    <string name="error_client">Client side error</string>
+    <string name="error_permissions">Insufficient permissions</string>
+    <string name="error_network">Network error</string>
+    <string name="error_network_timeout">Network timeout</string>
+    <string name="error_no_match">No recognition result</string>
+    <string name="error_busy">Recognizer is busy</string>
+    <string name="error_server">Server error</string>
+    <string name="error_speech_timeout">No speech input</string>
+    <string name="error_unknown">Unknown error</string>
+    <string name="error_recognition_unavailable">Speech recognition is not available on this device.</string>
+    <string name="listening_message">Listening...</string>
+    <string name="permission_denied_message">Please grant audio recording permission first.</string>
+    <string name="file_saved_message">Text saved to file: %s</string>
+    <string name="file_save_failed_message">Failed to save file.</string>
+    <string name="permission_audio_granted">Audio permission granted!</string>
+    <string name="permission_audio_denied">Audio permission denied. Cannot record.</string>
+</resources>
