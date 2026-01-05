@@ -26,6 +26,8 @@ android {
                 "proguard-rules.pro"
             )
         }
+
+
     }
     compileOptions {
         sourceCompatibility = JavaVersion.VERSION_11
@@ -40,7 +42,8 @@ android {
 }
 
 dependencies {
-
+    implementation("com.google.ai.client.generativeai:generativeai:0.5.0")
+    implementation("androidx.core:core-ktx:1.12.0")
     implementation(libs.androidx.core.ktx)
     implementation(libs.androidx.lifecycle.runtime.ktx)
     implementation(libs.androidx.activity.compose)
