@@ -6,8 +6,6 @@ Android Kotlin app: **Voice record/type transcript → Gemini AI generates minut
 [![Kotlin](https://img.shields.io/badge/Kotlin-1.9.22-orange?logo=kotlin&logoColor=white)](https://kotlinlang.org)
 [![Gemini AI](https://img.shields.io/badge/Gemini-1.5_Flash-blue?logo=googleai&logoColor=white)](https://ai.google.dev)
 
-## 🎯 Demo
-![App Demo](demo.gif) *(Record emulator > Upload GIF/APK screenshot.)*
 
 ## ✨ Features
 - 🎤 **Voice-to-Text**: SpeechRecognizer (real-time).
